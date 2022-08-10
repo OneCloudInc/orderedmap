@@ -13,4 +13,4 @@ run:
     - master
 
 scripts:
-  - echo 'This repository doesn't run any tests'
+  - echo This repository does not run any tests
